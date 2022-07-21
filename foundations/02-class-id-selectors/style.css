@@ -1,0 +1,22 @@
+.tomato {
+    background-color: #ef7fbe;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+
+#cauliflower {
+    font-size: 36px;
+    color: blue;
+
+}
+
+.tomato.broccoli {
+    font-size: 24px;
+}
+
+#carrot {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
