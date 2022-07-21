@@ -1,0 +1,14 @@
+.cheese,
+.sauce {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.cheese {
+    background-color: black;
+    color: white;
+}
+
+.sauce {
+    background-color: yellow;
+}
